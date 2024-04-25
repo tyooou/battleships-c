@@ -1,0 +1,159 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Battleships",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "AddRandomShip::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AddRandomShip-Debug-d9fc2c1060a7a9a87df7.json",
+					"name" : "AddRandomShip",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CountValues::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CountValues-Debug-638ef5e4089f33b60e3b.json",
+					"name" : "CountValues",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "FireInTheHole::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FireInTheHole-Debug-ebb3a1c77c417503bc1a.json",
+					"name" : "FireInTheHole",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GameOver::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GameOver-Debug-7764be4d460947b98959.json",
+					"name" : "GameOver",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "InitialiseMap::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-InitialiseMap-Debug-a6128a228662e4518c4e.json",
+					"name" : "InitialiseMap",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "InitialiseRandomMap::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-InitialiseRandomMap-Debug-e965cc774201f7902df8.json",
+					"name" : "InitialiseRandomMap",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "IsShipValid::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-IsShipValid-Debug-573e3e3f93fceca44205.json",
+					"name" : "IsShipValid",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "PrintArray::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PrintArray-Debug-3d2b801c9e472b829239.json",
+					"name" : "PrintArray",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TopLeftPosition::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TopLeftPosition-Debug-fec94ec64787ffeb9c51.json",
+					"name" : "TopLeftPosition",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "battleships::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-battleships-Debug-df744927a1a3cf37a1e1.json",
+					"name" : "battleships",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main-Debug-3f220b40601ec85283fa.json",
+					"name" : "main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "testinlg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-testinlg-Debug-6eda59953755f7219675.json",
+					"name" : "testinlg",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/young/Documents/Battleships/cmake-build-debug",
+		"source" : "C:/Users/young/Documents/Battleships"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
